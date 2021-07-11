@@ -1,0 +1,16 @@
+@use 'custom';
+
+@use './components/animations';
+@use './components/button';
+@use './components/mixins';
+@use './components/typotagraphi';
+
+@use './sections/nabvar';
+@use './sections/intro';
+@use './sections/campanies';
+@use './sections/services';
+@use './sections/testimonions';
+@use './sections/questions';
+@use './sections/protofolio';
+@use './sections/getstarted';
+@use './sections/footer';
